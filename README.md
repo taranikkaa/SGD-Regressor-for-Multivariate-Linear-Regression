@@ -54,11 +54,12 @@ print("\nPredictions:\n",y_pred[:5])
 
 ## Output:
 
-![Uploading ML4.1.png…]()
+![ML4 1](https://github.com/user-attachments/assets/b1406f61-1b7d-41df-a59a-4d6dfc880724)
 
-![Uploading ML4.2.png…]()
+![ML4 2](https://github.com/user-attachments/assets/f4ff3f7f-a639-417f-acf6-db099114ccb3)
 
-![Uploading ML4.3.png…]()
+![ML4 3](https://github.com/user-attachments/assets/4d096876-19f7-4b44-81bc-9de14231b87e)
+
 
 
 ## Result:
